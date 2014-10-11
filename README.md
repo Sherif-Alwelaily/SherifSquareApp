@@ -1,0 +1,4 @@
+SherifSquareApp
+===============
+
+Foursquare Explorer
